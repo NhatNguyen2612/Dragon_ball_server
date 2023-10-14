@@ -2,8 +2,8 @@
 <img align="center" alt="Homepage" src="https://ngocrongonline.com/images/banner_2.png" />
 
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-10.6-blue.svg?cacheSeconds=2592000" />
-  <img alt="Update" src="https://img.shields.io/badge/update-08/12/2022-blue.svg?cacheSeconds=2592000" />
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
+  <img alt="Update" src="https://img.shields.io/badge/update-15/10/2023-blue.svg?cacheSeconds=2592000" />
   <br />
   <img alt="Build Status" src="https://cloud.drone.io/api/badges/KhanhNguyen9872/Ninja_Server_Termux/status.svg" />
 
