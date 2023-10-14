@@ -17,7 +17,7 @@
 > Dragon Ball Server Termux Online Free
 
 ## Install
- - Tutorial: [Comming Soon](xvideos.com)
+ - Tutorial: [Comming Soon]([xvideos.com](https://github.com/NhatNguyen2612))
  
 1 - Download Termux APK (click on Picture): 
 <a href="https://khanhnguyen9872.github.io/Ninja_Server_Termux/CONF_FILE/termux_0.118.apk" target="_blank">
