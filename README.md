@@ -21,7 +21,7 @@
  - Tutorial: [Comming Soon](https://github.com/NhatNguyen2612)
  
 1 - Download Termux APK (click on Picture): 
-<a href="https://github.com/NhatNguyen2612/Dragon_ball_server/blob/main/File/termux.apk" target="_blank">
+<a href="https://github.com/NhatNguyen2612/Dragon_ball_server/File/termux.apk" target="_blank">
     <img alt="Termux" src="https://github.com/KhanhNguyen9872/DragonBoy_Termux/raw/main/image/termux.png" />
 </a>
 
