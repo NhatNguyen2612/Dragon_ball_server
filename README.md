@@ -18,7 +18,7 @@
   <img alt="Github Releases" src="https://img.shields.io/github/release/KhanhNguyen9872/Ninja_Server_Termux.svg?style=for-the-badge" />
 </p>
 
-> Ninja School Server on Termux Android
+> Dragon Ball Server Termux Online Free
 
 ### 🏠 [Homepage](https://khanhnguyen9872.github.io/Ninja_Server_Termux#)
 ## Install
