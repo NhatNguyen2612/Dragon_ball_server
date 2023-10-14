@@ -1,5 +1,5 @@
-<h1 align="center">Welcome to Ninja_Server_Termux 👋</h1>
-<img alt="Homepage" src="https://github.com/KhanhNguyen9872/Ninja_Server_Termux/raw/main/image/Homepage.png" />
+<h1 align="center">Dragon Ball Termux Online</h1>
+<img alt="Homepage" src="https://ngocrongonline.com/images/banner_2.png" />
 
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-10.6-blue.svg?cacheSeconds=2592000" />
