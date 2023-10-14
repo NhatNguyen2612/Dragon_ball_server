@@ -76,7 +76,7 @@ install
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/KhanhNguyen9872/Ninja_Server_Termux/issues). You can also take a look at the [contributing guide](https://github.com/KhanhNguyen9872/Ninja_Server_Termux/blob/main/README.md).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/NhatNguyen2612/Dragon_ball_server/issues). You can also take a look at the [contributing guide](https://github.com/NhatNguyen2612/Dragon_ball_server/blob/main/README.md).
 
 ## Show your support
 
