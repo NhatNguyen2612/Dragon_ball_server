@@ -21,7 +21,7 @@
  
 1 - Download Termux APK (click on Picture): 
 <a href="#" target="_blank">
-    <img alt="Termux" src="https://khanhnguyen9872.github.io/DragonBoy_Termux/CONF_FILE/termux_0.118.apk" />
+    <img alt="Termux" src="https://github.com/KhanhNguyen9872/DragonBoy_Termux/raw/main/image/termux.png" />
 </a>
 
 2 - Install Termux APK
