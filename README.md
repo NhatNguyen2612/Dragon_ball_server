@@ -16,7 +16,6 @@
 
 > Dragon Ball Server Termux Online Free
 
-### 🏠 [Homepage](https://khanhnguyen9872.github.io/Ninja_Server_Termux#)
 ## Install
  - Tutorial: [https://youtu.be/puTeSrOrfL4](https://youtu.be/Wyt_f7hEoCQ)
  
