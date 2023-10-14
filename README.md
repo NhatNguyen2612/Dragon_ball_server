@@ -20,8 +20,8 @@
  - Tutorial: [Comming Soon](https://github.com/NhatNguyen2612)
  
 1 - Download Termux APK (click on Picture): 
-<a href="https://khanhnguyen9872.github.io/Ninja_Server_Termux/CONF_FILE/termux_0.118.apk" target="_blank">
-    <img alt="Termux" src="https://github.com/KhanhNguyen9872/Ninja_Server_Termux/raw/main/image/termux.png" />
+<a href="#" target="_blank">
+    <img alt="Termux" src="https://i02.appmifile.com/679_bbs_en/21/06/2021/54b82afa8d.png" />
 </a>
 
 2 - Install Termux APK
