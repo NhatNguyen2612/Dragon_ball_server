@@ -10,7 +10,6 @@
 
   <a href="https://github.com/NhatNguyen2612/Dragon_ball_server#" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
-    <img alt="Download" src="https://img.shields.io/github/downloads/NhatNguyen2612/Dragon_ball_server/total.svg/>
   </a>
 
 > Dragon Ball Server Termux Online Free
