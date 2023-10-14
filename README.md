@@ -1,5 +1,5 @@
 <h1 align="center">SERVER DRAGON BALL TERMUX ONLINE</h1>
-<img alt="Homepage" src="https://ngocrongonline.com/images/banner_2.png" />
+<img align="center" alt="Homepage" src="https://ngocrongonline.com/images/banner_2.png" />
 
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-10.6-blue.svg?cacheSeconds=2592000" />
