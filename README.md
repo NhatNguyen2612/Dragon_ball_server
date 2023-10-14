@@ -57,6 +57,12 @@ install
 - [x] 12 [May crash]
 - [ ] 13 [Unknown]
 
+## Author
+👤 Social
+
+* Website: Unknow
+* Github: [@NhatNguyen2612](https://github.com/NhatNguyen2612)
+* Telegram: [@NhatNguyen2612](https://github.com/KhanhNguyen9872)
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/NhatNguyen2612/Dragon_ball_server/issues). You can also take a look at the [contributing guide](https://github.com/NhatNguyen2612/Dragon_ball_server/blob/main/README.md).
