@@ -8,7 +8,7 @@
   <img alt="Build Status" src="https://cloud.drone.io/api/badges/KhanhNguyen9872/Ninja_Server_Termux/status.svg" />
 
   <a href="https://github.com/KhanhNguyen9872/Ninja_Server_Termux#" target="_blank">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+  <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
 </p>
 ### 🏠 [Homepage](https://khanhnguyen9872.github.io/Ninja_Server_Termux#)
