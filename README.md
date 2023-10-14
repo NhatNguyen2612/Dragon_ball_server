@@ -11,7 +11,7 @@
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
   <a href="https://github.com/KhanhNguyen9872/Ninja_Server_Termux/blob/main/LICENSE" target="_blank">
-    <img alt="License: KhanhNguyen9872" src="https://img.shields.io/badge/License-KhanhNguyen9872-yellow.svg" />
+    <img alt="License: NhatNguyen2612" src="https://img.shields.io/badge/License-NhatNguyen2612-yellow.svg" />
   </a>
   <br />
   <img alt="Github Download" src="https://img.shields.io/github/downloads/KhanhNguyen9872/Ninja_Server_Termux/total.svg?style=for-the-badge" />
