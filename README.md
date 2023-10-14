@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Ninja_Server_Termux 👋</h1>
+<h1 align="center">SERVER DRAGON BALL TERMUX ONLINE</h1>
 <img alt="Homepage" src="https://github.com/KhanhNguyen9872/Ninja_Server_Termux/raw/main/image/Homepage.png" />
 
 <p>
