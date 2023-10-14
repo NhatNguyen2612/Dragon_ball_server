@@ -12,8 +12,6 @@
   </a>
   <br />
 </p>
-> Ninja School Server on Termux Android
-
 ### 🏠 [Homepage](https://khanhnguyen9872.github.io/Ninja_Server_Termux#)
 ## Install
  - Tutorial: [https://youtu.be/puTeSrOrfL4](https://youtu.be/Wyt_f7hEoCQ)
