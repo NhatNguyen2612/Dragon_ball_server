@@ -27,7 +27,7 @@
 3 - Open Termux, copy this line and paste it on Termux
 
 ```bash
-git clone https://github.com/NhatNguyen2612/Dragon_ball_server/ && cd NRO_V2 && mv install.sh ~/../usr/bin/ && chmod +x ~/../usr/bin/install.sh && cd
+git clone https://github.com/NhatNguyen2612/Dragon_ball_server/ && cd Dragon_ball_server && mv install.sh ~/../usr/bin/ && chmod +x ~/../usr/bin/install.sh && cd
 ```
 
 4 - Wait for install!
