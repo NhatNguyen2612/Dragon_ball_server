@@ -1,3 +1,3 @@
 cd 
-cd NRO_V2
+cd Dragon_ball_server
 python main.py
